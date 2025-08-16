@@ -21,6 +21,4 @@ For more details on me: [jonathancsr.dev](https://www.jonathancsr.dev)
   <img alt="Breakout Game" src="images/breakout-light.svg">
 </picture>
 
-_Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
-
 ---
