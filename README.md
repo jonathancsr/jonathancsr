@@ -1,0 +1,26 @@
+## Hey I'm Cyprien 👋
+
+```json
+{
+  "job": "Software engineer",
+  "birthday": "1997-07-06",
+  "country": "Brazil",
+  "city": "Belo Horizonte",
+  "stack": ["Javascript", "Python", "Go", "Docker", "AWS", "..."],
+  "interest": ["Tech", "Running", "Cycling", "Hiking", "..."]
+}
+```
+
+For more details on me: [jonathancsr.dev](https://www.jonathancsr.dev)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="Breakout Game" src="images/breakout-light.svg">
+</picture>
+
+_Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
+
+---
