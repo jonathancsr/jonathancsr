@@ -5,7 +5,9 @@
   "job": "Software engineer",
   "birthday": "1997-07-06",
   "country": "Brazil",
-  "city": "Belo Horizonte"
+  "city": "Belo Horizonte",
+  "stack": ["Typescript", "NodeJs", "React", "AWS", "..."],
+  "interest": ["Tech", "Crossfit", "Games", "Reading", "..."]
 }
 ```
 
